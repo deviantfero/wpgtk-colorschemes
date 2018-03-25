@@ -49,24 +49,24 @@ you can also specify a filename in the path, then the exported json will have th
 
 ```json
 {
-    "colors": {
-        "color0": "#211b16",
-        "color1": "#A86645",
-        "color2": "#356E53",
-        "color3": "#BB9951",
-        "color4": "#897198",
-        "color5": "#469750",
-        "color6": "#576055",
-        "color7": "#95966a",
-        "color8": "#392e25",
-        "color9": "#e97f4a",
-        "color10": "#3a996c",
-        "color11": "#ffcd57",
-        "color12": "#b681d6",
-        "color13": "#4cd25d",
-        "color14": "#698862",
-        "color15": "#dadc9b"
-    }
+  "colors": {
+    "color0": "#211b16",
+    "color1": "#A86645",
+    "color2": "#356E53",
+    "color3": "#BB9951",
+    "color4": "#897198",
+    "color5": "#469750",
+    "color6": "#576055",
+    "color7": "#95966a",
+    "color8": "#392e25",
+    "color9": "#e97f4a",
+    "color10": "#3a996c",
+    "color11": "#ffcd57",
+    "color12": "#b681d6",
+    "color13": "#4cd25d",
+    "color14": "#698862",
+    "color15": "#dadc9b"
+  }
 }
 ```
 
