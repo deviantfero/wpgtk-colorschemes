@@ -72,6 +72,10 @@ you can also specify a filename in the path, then the exported json will have th
 
 ### Colorschemes
 
+In this section you can checkout the colorschemes this JSON files produce in `wpgtk`, while submitting
+the sample is not necessary for submitting a new colorscheme, it would be greatly appreciated, as it gives
+other users a preivew of what they're downloading.
+
 #### default.json
 ![default-sample](./samples/default-sample.png)
 
