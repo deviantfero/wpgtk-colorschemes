@@ -20,7 +20,7 @@ wpg -o <theme-to-export> [<path-to-export-to>]
 If no path is provided, the current directory will be used, 
 you can also specify a filename in the path, then the exported json will have that name.
 
-### terminal.sexy format
+#### terminal.sexy format
 
 ```json
 {
@@ -45,7 +45,7 @@ you can also specify a filename in the path, then the exported json will have th
 }
 ```
 
-### pywal format
+#### pywal format
 
 ```json
 {
@@ -69,3 +69,15 @@ you can also specify a filename in the path, then the exported json will have th
     }
 }
 ```
+
+### Colorschemes
+
+#### default.json
+![default-sample](./samples/default-sample.png)
+
+#### monokai.json
+![monokai-sample](./samples/monokai-sample.png)
+
+#### coffe-like.json
+![coffe-like-sample](./samples/coffe-like-sample.png)
+
