@@ -1,5 +1,5 @@
 # wpgtk-colorschemes
-:earth_americas: A community driven repository to store common colorschemes in JSON format
+:earth_americas: A community driven repository to store colorschemes for wpgtk
 
 From this repository you will be able to download and use JSON formatted colorschemes submitted
 by other `wpgtk` users, you're free to fork this repository to create your own personal collection
@@ -7,7 +7,7 @@ of colorschemes too!
 
 To submit a new colorscheme, just open a pull request, the colorscheme in question, should have one
 of these formats, for simplicity anything other than the 16 primary colors will be ignored when importing
-so you can of course include other keys in your template, but only the `color` or `colors` key will be read:
+so you can of course include other keys in your colorscheme, but only the `color` or `colors` key will be read:
 
 ### Exporting Colorschemes
 
