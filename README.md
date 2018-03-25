@@ -81,3 +81,6 @@ you can also specify a filename in the path, then the exported json will have th
 #### coffe-like.json
 ![coffe-like-sample](./samples/coffe-like-sample.png)
 
+#### bikes.json
+![bikes-sample](./samples/bikes-sample.png)
+

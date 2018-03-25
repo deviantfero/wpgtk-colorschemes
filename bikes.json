@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fernando/.config/wpg/wallpapers/bikejpn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171e1e",
+        "foreground": "#f9ffff",
+        "cursor": "#c2cbcb"
+    },
+    "colors": {
+        "color0": "#171e1e",
+        "color1": "#629062",
+        "color2": "#2b8c7c",
+        "color3": "#a09666",
+        "color4": "#996574",
+        "color5": "#b4a753",
+        "color6": "#278da5",
+        "color7": "#c2cbcb",
+        "color8": "#283434",
+        "color9": "#6fca6f",
+        "color10": "#2bc1a9",
+        "color11": "#e0ce73",
+        "color12": "#d7728f",
+        "color13": "#fbe55a",
+        "color14": "#25bfe3",
+        "color15": "#f9ffff"
+    }
+}
