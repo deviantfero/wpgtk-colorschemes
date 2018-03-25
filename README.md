@@ -9,7 +9,18 @@ To submit a new colorscheme, just open a pull request, the colorscheme in questi
 of these formats, for simplicity anything other than the 16 primary colors will be ignored when importing
 so you can of course include other keys in your template, but only the `color` or `colors` key will be read:
 
-#### terminal.sexy format
+### Exporting Colorschemes
+
+Remember, you can use `wpgtk` to export your handcrafted colorschemes, do it like this:
+
+```
+wpg -o <theme-to-export> [<path-to-export-to>]
+```
+
+If no path is provided, the current directory will be used, 
+you can also specify a filename in the path, then the exported json will have that name.
+
+### terminal.sexy format
 
 ```json
 {

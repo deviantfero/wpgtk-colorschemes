@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fernando/.config/wpg/wallpapers/blurme.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#282a2e",
+        "foreground": "#deeeff",
+        "cursor": "#e4dad2"
+    },
+    "colors": {
+        "color0": "#282a2e",
+        "color1": "#a54242",
+        "color2": "#8c9440",
+        "color3": "#de935f",
+        "color4": "#5f819d",
+        "color5": "#85678f",
+        "color6": "#5e8d87",
+        "color7": "#a7b3c5",
+        "color8": "#3a3d43",
+        "color9": "#e54646",
+        "color10": "#c1ce45",
+        "color11": "#ffbb66",
+        "color12": "#6ba9dc",
+        "color13": "#b475c9",
+        "color14": "#6ac6ba",
+        "color15": "#deeeff"
+    }
+}
