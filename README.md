@@ -1,5 +1,5 @@
 # wpgtk-colorschemes
-:earth_americas: A community driven repository to store colorschemes for wpgtk
+:earth_americas: A community driven repository to submit and share colorschemes for wpgtk
 
 From this repository you will be able to download and use JSON formatted colorschemes submitted
 by other `wpgtk` users, you're free to fork this repository to create your own personal collection
