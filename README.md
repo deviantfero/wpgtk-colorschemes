@@ -90,3 +90,7 @@ other users a preivew of what they're downloading.
 
 #### vending.json
 ![vending-sample](./samples/vending-sample.png)
+
+
+#### sea.json
+![sea-sample](./samples/sea-sample.png)

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fernando/.config/wpg/wallpapers/sea.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#032c36",
+        "foreground": "#ffffdc",
+        "cursor": "#263a47"
+    },
+    "colors": {
+        "color0": "#032c36",
+        "color1": "#c1454c",
+        "color2": "#6da58a",
+        "color3": "#aa8c55",
+        "color4": "#4c5a72",
+        "color5": "#fe5877",
+        "color6": "#35958f",
+        "color7": "#f2f1b9",
+        "color8": "#044b5c",
+        "color9": "#ff4853",
+        "color10": "#7be8b4",
+        "color11": "#edba5d",
+        "color12": "#5671a0",
+        "color13": "#ff5c8c",
+        "color14": "#37cec5",
+        "color15": "#ffffdc"
+    }
+}
