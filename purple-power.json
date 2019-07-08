@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fernando/.config/wpg/wallpapers/purple.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2a253e",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#2a253e",
+        "color1": "#f84547",
+        "color2": "#95c76f",
+        "color3": "#efa16b",
+        "color4": "#64878f",
+        "color5": "#b74989",
+        "color6": "#8485ce",
+        "color7": "#d8d8d8",
+        "color8": "#3f375d",
+        "color9": "#ff4548",
+        "color10": "#beff7c",
+        "color11": "#ffcd74",
+        "color12": "#72b9c9",
+        "color13": "#fe4eb4",
+        "color14": "#9597ff",
+        "color15": "#ffffff"
+    }
+}
