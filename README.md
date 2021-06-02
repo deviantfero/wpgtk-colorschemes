@@ -98,4 +98,7 @@ other users a preivew of what they're downloading.
 ![moon-sample](./samples/moon-sample.png)
 
 #### purple-power.json
-![moon-sample](./samples/purple-power.png)
+![purple-power-sample](./samples/purple-power.png)
+
+#### mint.json
+![mint](./samples/mint.png)
