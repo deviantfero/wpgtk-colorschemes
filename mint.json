@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/fernando/.config/wpg/wallpapers/greenmarble.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#d9f3e4",
+        "foreground": "#284330",
+        "cursor": "#284330"
+    },
+    "colors": {
+        "color0": "#d9f3e4",
+        "color1": "#2de0a7",
+        "color2": "#61beaf",
+        "color3": "#81b856",
+        "color4": "#72b3ad",
+        "color5": "#81db99",
+        "color6": "#59d3b9",
+        "color7": "#558f67",
+        "color8": "#c1d8cb",
+        "color9": "#08b37d",
+        "color10": "#2b9d8b",
+        "color11": "#579824",
+        "color12": "#36968d",
+        "color13": "#3cb75d",
+        "color14": "#24ad90",
+        "color15": "#284330"
+    }
+}
